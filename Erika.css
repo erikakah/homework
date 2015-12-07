@@ -1,0 +1,22 @@
+header {
+	font-size: 35px;
+	text-align: center;
+	padding: 9px;
+    background: url(http://hdwyn.com/wallpaper/trees_branches_dark_night_hd-wallpaper-51773.jpg);
+		}
+h1 {
+	color: #2B2725;
+	font-family: 'Avant Garde', Avant garde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+
+body {
+	background-color: #fdfabf
+}
+
+article {
+	color: #2B2725;
+	font-family: 'Avant Garde', Avant garde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	text-align: center;
+}
+a { color: inherit; 
+	}
